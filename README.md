@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello There
 
-<!--
-**AnakinSkywalker066/AnakinSkywalker066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`AnakinSkywalker#0066` on discord
 
-Here are some ideas to get you started:
+![js](https://github-readme-stats.vercel.app/api/top-langs/?username=AnakinSkywalker066&langs_count=15&theme=material-palenight&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mods!
+                                                                                                                                         
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=AnakinSkywalker066&repo=CloneAndDroids&theme=material-palenight)](https://github.com/AnakinSkywalker066/CloneAndDroids)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=AnakinSkywalker066&repo=StarWarsMod&theme=material-palenight)](https://github.com/AnakinSkywalker066/StarWarsMod)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=AnakinSkywalker066&repo=BabyYodaReskin&theme=material-palenight)](https://github.com/AnakinSkywalker066/BabyYodaReskin)
+
+My Stats:
+
+![a](https://github-readme-stats.vercel.app/api?username=AnakinSkywalker066&show_icons=true&line_height=27&theme=material-palenight&include_all_commits=true)
