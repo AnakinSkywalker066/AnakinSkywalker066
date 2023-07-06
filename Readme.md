@@ -1,6 +1,6 @@
 # Hello There
 
-`AnakinSkywalker#0066` on discord ALL MODDING IS ON HOLD TILL NEW UPDATE! EXCEPT BUG FIXES!
+`AnakinSkywalker#0066` on discord!
 
 ## Currently Working On
 
